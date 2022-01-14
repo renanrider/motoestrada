@@ -1,4 +1,4 @@
-baseurl = "https://zhaohuabing.com"
+baseurl = "/"
 title = "Moto estrada"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
