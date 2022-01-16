@@ -15,11 +15,11 @@ categories: [Videos]
 
 ## Destino: Serra da Canastra
 
-Mais um parque nacional que sempre quis conhecer, para quem já visitou um parque nacional, sabe que vale muito a pena. Por ser uma área de preservação ambiental, tudo é muito bem cuidado. A primeira vez que ouvi falar da Serra da Canastra, foi através de um amigo chamado Heslan, que havia comentado sobre uma aventura feita com sua XRE 300, conhecida como Bicuda. Na ocasião estavámos na cidade de Ipeúna em um evento do VMAS (Viagem Moto América do Sul, grupo criado na época do Orkut). <br>
+Mais um parque nacional que sempre quis conhecer, para quem já visitou um parque nacional, sabe que vale muito a pena. Por ser uma área de preservação ambiental, tudo é muito bem cuidado. A primeira vez que ouvi falar da Serra da Canastra, foi através de um amigo chamado Heslan, que havia comentado sobre uma aventura feita com sua XRE 300, conhecida como Bicuda. Na ocasião estavámos na cidade de Ipeúna, em um evento do VMAS (Viagem Moto América do Sul, grupo criado na época do Orkut). <br>
 
 Fiquei com aquele local na cabeça, só esperando o momento certo. O tempo foi passando e tive a ideia de ir conhecer o parque no dia do meu aniversário, teria alguns dias off do trabalho e a data seria perfeita.<br>
-Fiz uma manutenção básica na moto, como trocar o óleo do motor, pastilhas de freio, revisar a iluminação e etc, em pouco tempo a moto estaria preparada para a viagem. Após verificar a moto, foi a vez dos itens de camping, checagem da barraca, saco estanque, coisas de cozinha, saco de dormir...
-Tudo pronto e amarrado na moto, agora é tentar dormir e sair cedo.
+Fiz uma manutenção básica na moto, como trocar o óleo do motor, pastilhas de freio, revisar a iluminação e alguns outros itens de segurança. Em pouco tempo, a moto estaria preparada para a viagem. Após verificar a moto, foi a vez dos itens de camping, checagem da barraca, saco estanque, coisas de cozinha, saco de dormir...
+Tudo pronto e amarrado na moto, agora só o que restava era tentar dormir e sair o mais cedo possível.
 
 ![Hora de pegar a estrada!](/img/post/2021-06-03-serra-da-canastra/GH010082_1622765543411.JPG) _Hora de pegar a estrada!_
 
