@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Serra da Canastra em duas rodas'
+title: 'Moto Camping na Serra da Canastra'
 subtitle: ''
-description: 'Serra da Canastra em duas rodas, uma viagem de 4 dias.'
+description: 'Moto Camping na Serra da Canastra, uma viagem de 4 dias.'
 excerpt: ''
 date: 2021-06-03T12:00:00
 author: 'Moto Estrada'
@@ -54,16 +54,16 @@ Parei a moto e fiquei vendo o pôr do Sol, e observando se o locar era tranquilo
 Por volta das 18:40h, já não tinha mais ninguém por lá, somente eu e um cachorro que estava por lá. Comecei a montar a barraca, e apareceu e motos perguntando se eu iria acampar por ali, respondi que sim. E perguntaram se poderiam acampar ali também, disse ok. <br>
 Fizemos uma refeição e trocamos ideia de alguns lugares para ir, e cada um foi para sua barraca descansar.
 
-![Camping selvagem](/img/post/2021-06-03-serra-da-canastra/motos.png) _Camping selvagem - Morro do Carvão_
+![Camping selvagem](/img/post/2021-06-03-serra-da-canastra/motos.jpg) _Camping selvagem - Morro do Carvão_
 
 ## Dia 4
 
 Na manhã seguinte partimos sentido a Serra Branca, passamos por lugares bem bonitos, mas uma paisagem bem seca, com cavalos soltos correndo por toda a parte.<br>
 Paramos no mirante da Serra Branca, onde tem uma capela da Nossa Senhora de Aparecida.
 
-![Mirante da Serra Branca](/img/post/2021-06-03-serra-da-canastra/mirante-serra-branca.png) _Mirante da Serra Branca_
+![Mirante da Serra Branca](/img/post/2021-06-03-serra-da-canastra/mirante-serra-branca.jpg) _Mirante da Serra Branca_
 
 Passamos pelo vale da Babilônia, uma vista perfeita. Após muita estrada de terra, fizemos uma parada em um restaurante para comer algo e descansar. Aproveitei para me informar sobre algum lugar que vendesse queijo canastra direto do produtor, acabei encontrando em um armazém logo a frente.<br>
 Depois de muito rodar por estradas de terra, finalmente cheguei ao asfalto, ainda faltava muitos quilômetros para chegar em casa. Me despedi dos novos amigo e segui meu rumo em direção a casa.<br>Foi um retorno tranquilo, deixando uma saudade ao chegar em casa, espero que eu volte lá em breve. Até a próxima aventura.
 
-![Vale da Babilônia](/img/post/2021-06-03-serra-da-canastra/babilonia.png) _Vale da Babilônia_
+![Vale da Babilônia](/img/post/2021-06-03-serra-da-canastra/babilonia.jpg) _Vale da Babilônia_
