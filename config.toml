@@ -8,15 +8,16 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
+enableRobotsTXT = false
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/banner.jpg"
-  SEOTitle = "Moto Estrada | Blog"
-  description = "Viagem de moto, camping e bushcraft"
-  keyword = "Viagem de moto"
+  SEOTitle = "Moto camping | Moto Estrada - Blog"
+  description = "Moto camping pelo Brasil e América do Sul a bordo de uma Fazer 250"
+  keyword = ""
   slogan = "Blog"
 
   image_404 = "img/404-bg.jpg"
