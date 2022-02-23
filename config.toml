@@ -15,7 +15,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/banner.jpg"
-  SEOTitle = "Moto camping | Moto Estrada - Blog"
+  SEOTitle = "Moto Estrada - Blog"
   description = "Moto camping pelo Brasil e América do Sul a bordo de uma Fazer 250"
   keyword = ""
   slogan = "Blog"
