@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on Moto estrada</title>
+    <link>/top/</link>
+    <description>Recent content in Tops on Moto estrada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/top/about/</guid>
+      <description>Sobre Quem está por trás do guidão da Fazer 250 azul ano 2007? Sou o Renan, motociclista desde 2009. Iniciei no mundo da duas rodas desde criança, bem não foi bem em duas rodas, mas sim em três. Tudo começou quando ganhei um triciclo bandeirante azul da minha mãe, que senão me falha a memória, o ano era 1993. Lembro que eu passava o dia inteiro andando nele, depois daquele dia não teria mais volta, estava para sempre no mundo das duas rodas.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/top/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/top/books/</guid>
+      <description>Machine learning学习笔记 Coursera 在线课程 Machine learning 笔记讲师: 吴恩达(Andrew Ng) 课程地址：https://www.coursera.org/lear</description>
+    </item>
+    
+    <item>
+      <title>Arquivo de postagens</title>
+      <link>/top/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/top/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

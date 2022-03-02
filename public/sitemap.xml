@@ -2,38 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhaohuabing.com/2022/01/14/2022-01-14-bem-vindos/</loc>
-    <lastmod>2022-01-04T12:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2022-01-22T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/categories/</loc>
-    <lastmod>2022-01-04T12:00:00+00:00</lastmod>
+    <loc>/2021/06/03/2022-01-22-s%C3%A3o-bento-do-sapuca%C3%AD/</loc>
+    <lastmod>2022-01-22T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/</loc>
-    <lastmod>2022-01-04T12:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-01-22T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/post/</loc>
-    <lastmod>2022-01-04T12:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2022-01-22T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/relatos/</loc>
-    <lastmod>2022-01-04T12:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2022-01-22T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/categories/relatos/</loc>
-    <lastmod>2022-01-04T12:00:00+00:00</lastmod>
+    <loc>/tags/videos/</loc>
+    <lastmod>2022-01-22T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/</loc>
-    <lastmod>2022-01-04T12:00:00+00:00</lastmod>
+    <loc>/categories/videos/</loc>
+    <lastmod>2022-01-22T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2021/06/03/2021-06-03-serra-da-canastra/</loc>
+    <loc>/2021/06/03/2021-06-03-serra-da-canastra/</loc>
     <lastmod>2021-06-03T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/videos/</loc>
-    <lastmod>2021-06-03T12:00:00+00:00</lastmod>
+    <loc>/search/placeholder/</loc>
   </url><url>
-    <loc>https://zhaohuabing.com/categories/videos/</loc>
-    <lastmod>2021-06-03T12:00:00+00:00</lastmod>
+    <loc>/top/about/</loc>
   </url><url>
-    <loc>https://zhaohuabing.com/search/placeholder/</loc>
+    <loc>/top/books/</loc>
   </url><url>
-    <loc>https://zhaohuabing.com/search/</loc>
+    <loc>/top/archive/</loc>
+  </url><url>
+    <loc>/search/</loc>
+  </url><url>
+    <loc>/top/</loc>
   </url>
 </urlset>
